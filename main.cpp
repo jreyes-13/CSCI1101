@@ -11,7 +11,7 @@ int main()
 
     cout << "You are " << age << " years old.";
 
-    cout << "Let's do a commit ... " << endl << endl; 
+    cout << "Let's do a commit ... " << endl << endl << endl; 
 
     return 0;
 }
